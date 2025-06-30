@@ -25,11 +25,12 @@ This will build the project for both Linux and Windows (using `mingw`).
 1. Ensure **MSVC (Visual Studio)** and **CMake** are installed.
 
 2. Open Command Prompt or Windows Terminal and run:
+   ```bash
    mkdir build-msvc
    cd build-msvc
    cmake ..
    cmake --build .
    
-3. Find the executable in the `Debug` folder inside `build-msvc`.
+4. Find the executable in the `Debug` folder inside `build-msvc`.
 
 ---
