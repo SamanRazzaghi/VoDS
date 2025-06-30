@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"D:/templates/templates/build-msvc/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

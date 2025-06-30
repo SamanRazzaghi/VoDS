@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/checker.dir/link.d CMakeFiles/checker.dir/src/main.cpp.o -o checker

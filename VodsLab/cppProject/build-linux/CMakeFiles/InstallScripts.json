@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/saman/Documents/VODS/templates/templates/build-linux/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

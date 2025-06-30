@@ -1,0 +1,3 @@
+/home/saman/Documents/VODS/templates/templates/build-linux/CMakeFiles/checker.dir
+/home/saman/Documents/VODS/templates/templates/build-linux/CMakeFiles/edit_cache.dir
+/home/saman/Documents/VODS/templates/templates/build-linux/CMakeFiles/rebuild_cache.dir
